@@ -13,4 +13,8 @@ git push
 git add CU_TicketSystem.JPG  
 git commit -m "se agrego imagen del diagrama de casos de uso"  
 git push  
- 
+git add Laboratorio1-requerimientos.pdf  
+git commit -m "Se envio el documento de requerimientos funcionales y no funcionales  "  
+git push  
+git add README.md  
+git commit -m "Ultima modificacion del archivo README.md "   
